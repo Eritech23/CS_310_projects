@@ -1,0 +1,12 @@
+
+
+Q1. Writting this program was good because I managed to revised data structure, especially maps and trees.I'm not a fan of IDE. I do prefer text editor such as sublime. But, to code in Java I use IntelliJ. Also I use Macos which is Unix based, as my main OS. To point out I have dual boot with Windows, in case I need it. 
+\
+\
+\
+Q2. In the ReportLine Complexity run time line by line should be linear O(n) for each user entry. Since, I loaded the log file in a array list first. However, I did use maps to find maxUsage so the complexity would be O(1) for insertion and look up. And finally to generate Report I did use a Tree Map to storage and sort the data with complexity of  O(logN) for insertion and look up. And worst case would be O(nlogn) since I used hashmap and tree to search in a array list-Not sure if I'm right with this assumption.
+\
+\
+Q3. 
+    For some reason using the terminal outside Intellij is giving me a error while using LineUsage Object  as a key in a Map or  a List. To Point out I used <NONE> to represent the username and 0 count when a terminal is not assigned with any users. 
+The picture asked for question 3 are not attaching to a txt only rtfd. So I will submit them seperately.}
